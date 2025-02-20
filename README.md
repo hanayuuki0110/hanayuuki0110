@@ -5,7 +5,6 @@ I LOVE RHYTHM GAMES AND ANIMES
 
 STUDEND OF TECHNICAL COURSE IN SYSTEMS DEVELOPEMENT
 
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Hana0110) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hanayuuki0110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanayuuki0110@gmail.com) 
 
