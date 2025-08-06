@@ -1,24 +1,28 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5E0083&width=435&lines=%3E+%3E+%3E+%E3%81%8A%E3%81%AF%E3%82%88%E3%81%9B%E3%81%8B%E3%81%84!+%E3%81%A9%E3%81%86%E3%81%9E%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%80%82)](https://git.io/typing-svg)
+
+#
 
 I LOVE RHYTHM GAMES AND ANIMES
 
 STUDEND OF TECHNICAL COURSE IN SYSTEMS DEVELOPEMENT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanayuuki0110&theme=material-palenight&show_icons=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanayuuki0110&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanayuuki0110/hanayuuki0110/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanayuuki0110/hanayuuki0110/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hanayuuki0110/hanayuuki0110/output/github-contribution-grid-snake.svg">
 </picture>
+
 ## Most used IDEs
+
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 🌐 Socials:
+
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Hana0110) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hanayuuki0110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanayuuki0110@gmail.com) 
 
 
