@@ -10,7 +10,7 @@ STUDEND OF TECHNICAL COURSE IN SYSTEMS DEVELOPEMENT
 
 #
 
-![GitHub Snake gif](https://github.com/hanayuuki0110/snake-github/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://github.com/hanayuuki0110/snake-github/blob/output/github-contribution-grid-snake.svg)
 
 ## Most used IDEs
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
