@@ -11,9 +11,9 @@ STUDEND OF TECHNICAL COURSE IN SYSTEMS DEVELOPEMENT
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanayuuki0110/Hanayuuki0110/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanayuuki0110/Hanayuuki0110/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hanayuuki0110/Hanayuuki0110/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanayuuki0110/hanayuuki0110/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanayuuki0110/hanayuuki0110/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hanayuuki0110/hanayuuki0110/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## Most used IDEs
